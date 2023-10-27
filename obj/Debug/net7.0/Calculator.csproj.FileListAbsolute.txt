@@ -1,0 +1,15 @@
+/home/joaoedson/dev/projetos/Calculator/bin/Debug/net7.0/Calculator
+/home/joaoedson/dev/projetos/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/joaoedson/dev/projetos/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/joaoedson/dev/projetos/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/joaoedson/dev/projetos/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/joaoedson/dev/projetos/Calculator/obj/Debug/net7.0/ref/Calculator.dll
